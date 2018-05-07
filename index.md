@@ -1,10 +1,10 @@
 # John Livingston
 
-### PhD student at the University of Tokyo
+### PhD student in the [Department of Astronomy at the University of Tokyo](https://www.astron.s.u-tokyo.ac.jp/)
 
 ## Research
 
-I enjoy discovering and characterizing extrasolar planets using a combination of ground- and space-based telescopes. I am interested in the various processes that give rise to the great diversity of worlds in the universe.
+I enjoy [discovering and characterizing extrasolar planets](http://iopscience.iop.org/article/10.3847/1538-3881/aaa841/meta) using a combination of ground- and space-based telescopes. I am interested in the various processes that give rise to the great diversity of worlds in the universe.
 
 ## Community
 
@@ -14,8 +14,8 @@ I am an organizer of the [Tokyo Area Planetary Science](http://tokyoplanets.gith
 
 I have at various times been employed in the following capacities:
 
-- Driving the cart that everyone tries to hit with golf balls at the driving range
-- Playing guitar, both solo and in bands
-- Making delicious cafe lattes and cappuccinos, with just the right amount of froth
-- Developing code at NASA's Jet Propulsion Laboratory to analyze data from the Spitzer space telescope
-- Hunting for planets using data from the Kepler space telescope, as a Fellow of the Japan Society for the Promotion of Science
+- Driving the picker cart that everyone tries to hit with golf balls at the driving range
+- Making delicious cafe lattes and cappuccinos with the right amount of froth
+- Playing guitar (both solo and in bands)
+- Developing code to analyze data from the Spitzer space telescope, as a scientist at NASA's Jet Propulsion Laboratory
+- Hunting for planets using data from the Kepler space telescope, as a fellow of the Japan Society for the Promotion of Science
