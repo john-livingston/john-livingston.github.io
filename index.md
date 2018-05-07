@@ -4,9 +4,7 @@
 
 ## Research
 
-I enjoy [discovering extrasolar planets](http://iopscience.iop.org/article/10.3847/1538-3881/aaa841/meta) using a combination of ground- and space-based telescopes. I am interested in the various processes that give rise to the great diversity of worlds in the universe.
-
-<a href="https://www.researchgate.net/profile/John_Livingston6">John Livingston on ResearchGate</a>
+I enjoy [discovering extrasolar planets](http://iopscience.iop.org/article/10.3847/1538-3881/aaa841/meta) using a combination of ground- and space-based telescopes. I am interested in the various processes that give rise to the great diversity of worlds in the universe. You can see my work on [ResearchGate](https://www.researchgate.net/profile/John_Livingston6).
 
 ## Community
 
