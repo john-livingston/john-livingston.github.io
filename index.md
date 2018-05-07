@@ -6,6 +6,8 @@
 
 I enjoy [discovering extrasolar planets](http://iopscience.iop.org/article/10.3847/1538-3881/aaa841/meta) using a combination of ground- and space-based telescopes. I am interested in the various processes that give rise to the great diversity of worlds in the universe.
 
+<a href="https://www.researchgate.net/profile/John_Livingston6">John Livingston on ResearchGate</a>
+
 ## Community
 
 I am an organizer of the [Tokyo Area Planetary Science](http://tokyoplanets.github.io) meetings.
