@@ -8,7 +8,7 @@ I enjoy discovering and characterizing extrasolar planets using a combination of
 
 ## Community
 
-I am an organizer of the [tokyoplanets.github.io](Tokyo Area Planetary Science) meetings.
+I am an organizer of the [http://tokyoplanets.github.io](Tokyo Area Planetary Science) meetings.
 
 ## Experience
 
