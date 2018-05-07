@@ -1,6 +1,6 @@
 # John Livingston
 
-### PhD student in the [Department of Astronomy](https://www.astron.s.u-tokyo.ac.jp/) at ![](http://logonoid.com/images/university-of-tokyo-logo.png | width=100)
+### PhD student in the [Department of Astronomy](https://www.astron.s.u-tokyo.ac.jp/) at <img src="http://logonoid.com/images/university-of-tokyo-logo.png" alt="drawing" style="width: 200px;"/>
 
 ## Research
 
