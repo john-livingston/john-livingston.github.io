@@ -1,6 +1,6 @@
-### John Livingston
+# John Livingston
 
-# PhD student at the University of Tokyo. 
+### PhD student at the University of Tokyo. 
 
 ## Research
 
