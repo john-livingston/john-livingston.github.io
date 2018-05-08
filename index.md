@@ -1,7 +1,7 @@
 # John Livingston
+### Astronomy PhD student
 
 ![](http://logonoid.com/images/university-of-tokyo-logo.png){:width="300px"} 
-### Astronomy PhD student
 
 ## Research
 
