@@ -9,8 +9,8 @@ I enjoy discovering extrasolar planets using a combination of ground- and space-
 
 ### Projects
 
-[44 Validated Planets from K2 Campaign 10](http://www.johnlivingston.space/k2c10/)
-[NASA-Keck/HIRES Key Project](http://www.johnlivingston.space/k2-key-project/)
+- [44 Validated Planets from K2 Campaign 10](http://www.johnlivingston.space/k2c10/)
+- [NASA-Keck/HIRES Key Project](http://www.johnlivingston.space/k2-key-project/)
 
 ## Mentoring
 
