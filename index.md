@@ -5,7 +5,16 @@
 
 ## Research
 
-I enjoy [discovering extrasolar planets](http://iopscience.iop.org/article/10.3847/1538-3881/aaa841/meta) using a combination of ground- and space-based telescopes. I am interested in the various processes that give rise to the great diversity of worlds in the universe. [View my work](https://www.researchgate.net/profile/John_Livingston6).
+I enjoy discovering extrasolar planets using a combination of ground- and space-based telescopes. I am interested in the various processes that give rise to the great diversity of worlds in the universe. I recently co-discovered the [first transiting multi-planet system in an open cluster](http://iopscience.iop.org/article/10.3847/1538-3881/aaa841/meta), and validated [44 planets discovered with the Kepler space telescope](http://iopscience.iop.org/article/10.3847/1538-3881/aaccde/meta). [View my work on ResearchGate](https://www.researchgate.net/profile/John_Livingston6).
+
+### Projects
+
+[44 Validated Planets from K2 Campaign 10](http://www.johnlivingston.space/k2c10/)
+[NASA-Keck/HIRES Key Project](http://www.johnlivingston.space/k2-key-project/)
+
+## Mentoring
+
+I've been very fortunate to have the opportunity to mentor two excellent students starting their graduate careers at the University of Tokyo. We've been working on fun things like MCMC transit light curve modeling of [hot Jupiters](https://jpdeleon.github.io/2017-08-05-Parameter_estimation_transit_/) and [TRAPPIST-1](http://nbviewer.jupyter.org/github/Mayuko-Mori/TRAPPIST-1_transit/blob/master/The%20Light%20Curve%20Analysis%20of%20TRAPPIST-1d%26e%20transits.ipynb).
 
 ## Community
 
@@ -16,7 +25,7 @@ I am an organizer of the [Tokyo Area Planetary Science](http://tokyoplanets.gith
 I have at various times been employed in the following capacities:
 
 - Driving the picker cart that everyone tries to hit with golf balls at the driving range
-- Making caffè lattes and cappuccinos with the right amount of froth
-- Playing guitar (both solo and in bands)
 - Developing code to analyze data from the Spitzer space telescope, as a scientist at NASA's Jet Propulsion Laboratory
+- Making caffè lattes and cappuccinos with the right amount of froth
 - Hunting for planets using data from the Kepler space telescope, as a fellow of the Japan Society for the Promotion of Science
+- Playing guitar (both solo and in bands)
