@@ -5,7 +5,7 @@
 
 ## Research
 
-I enjoy discovering extrasolar planets using a combination of ground- and space-based telescopes. I am interested in the various processes that give rise to the great diversity of worlds in the universe. I recently co-discovered the [first transiting multi-planet system in an open cluster](http://iopscience.iop.org/article/10.3847/1538-3881/aaa841/meta), and validated [44 planets discovered with the Kepler space telescope](http://iopscience.iop.org/article/10.3847/1538-3881/aaccde/meta). [View my work on ResearchGate](https://www.researchgate.net/profile/John_Livingston6).
+I enjoy discovering extrasolar planets using a combination of ground- and space-based telescopes. I am interested in the various processes that give rise to the great diversity of worlds in the universe. I recently co-discovered the [first transiting multi-planet system in an open cluster](http://iopscience.iop.org/article/10.3847/1538-3881/aaa841/meta), and [44 planets in K2 Campaign 10](http://iopscience.iop.org/article/10.3847/1538-3881/aaccde/meta). [View all of my work on ResearchGate](https://www.researchgate.net/profile/John_Livingston6).
 
 ### Projects
 
