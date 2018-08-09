@@ -14,7 +14,7 @@ I enjoy discovering extrasolar planets using a combination of ground- and space-
 
 ## Mentoring
 
-I've been very fortunate to have the opportunity to mentor two excellent students starting their graduate careers at the University of Tokyo. We've been working on fun things like MCMC transit light curve modeling of [hot Jupiters](https://jpdeleon.github.io/2017-08-05-Parameter_estimation_transit_/) and [TRAPPIST-1](http://nbviewer.jupyter.org/github/Mayuko-Mori/TRAPPIST-1_transit/blob/master/The%20Light%20Curve%20Analysis%20of%20TRAPPIST-1d%26e%20transits.ipynb).
+I've been very fortunate to have the opportunity to mentor two excellent students starting their graduate careers at the University of Tokyo. We've been working on fun things like MCMC transit light curve modeling of [TRAPPIST-1](http://nbviewer.jupyter.org/github/Mayuko-Mori/TRAPPIST-1_transit/blob/master/The%20Light%20Curve%20Analysis%20of%20TRAPPIST-1d%26e%20transits.ipynb) and some [hot Jupiters](https://jpdeleon.github.io/2017-08-05-Parameter_estimation_transit_/).
 
 ## Community
 
@@ -29,3 +29,7 @@ I have at various times been employed in the following capacities:
 - Making caffè lattes and cappuccinos with the right amount of froth
 - Hunting for planets using data from the Kepler space telescope, as a fellow of the Japan Society for the Promotion of Science
 - Playing guitar (both solo and in bands)
+
+## Media
+
+[Newseek](https://www.newsweek.com/incredible-discovery-44-exoplanets-after-technical-fault-1062398)
