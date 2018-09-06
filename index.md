@@ -33,3 +33,4 @@ I have at various times been employed in the following capacities:
 ## Media
 
 [Newseek](https://www.newsweek.com/incredible-discovery-44-exoplanets-after-technical-fault-1062398)
+[“We hebben geluk dat Kepler zo goed is blijven functioneren.”](https://www.scientias.nl/in-een-klap-meer-dan-40-exoplaneten-ontdekt/)
