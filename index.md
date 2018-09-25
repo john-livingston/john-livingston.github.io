@@ -31,6 +31,6 @@ I have at various times been employed in the following capacities:
 - Playing guitar (solo and in bands), teaching guitar
 
 ## Media
-
+- [Japan Times](https://www.japantimes.co.jp/news/2018/09/21/national/science-health/university-tokyo-student-goes-extra-trillions-miles-study-exoplanets/)
 - [Newseek](https://www.newsweek.com/incredible-discovery-44-exoplanets-after-technical-fault-1062398)
 - [“We hebben geluk dat Kepler zo goed is blijven functioneren.”](https://www.scientias.nl/in-een-klap-meer-dan-40-exoplaneten-ontdekt/)
