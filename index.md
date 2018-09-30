@@ -34,3 +34,5 @@ I have at various times been employed in the following capacities:
 - [Japan Times](https://www.japantimes.co.jp/news/2018/09/21/national/science-health/university-tokyo-student-goes-extra-trillions-miles-study-exoplanets/)
 - [Newseek](https://www.newsweek.com/incredible-discovery-44-exoplanets-after-technical-fault-1062398)
 - [“We hebben geluk dat Kepler zo goed is blijven functioneren.”](https://www.scientias.nl/in-een-klap-meer-dan-40-exoplaneten-ontdekt/)
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-4881-3620" href="https://orcid.org/0000-0002-4881-3620" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-4881-3620</a></div>
