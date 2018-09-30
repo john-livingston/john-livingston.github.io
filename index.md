@@ -25,7 +25,7 @@ I am an organizer of [Tokyo Area Planetary Science](http://tokyoplanets.github.i
 
 I have at various times been employed in the following capacities:
 
-- Driving the picker cart that everyone tries to hit with golf balls at the driving range
+- Driving the picker cart at the driving range that everyone tries to hit with golf balls
 - Developing code to analyze data from the Spitzer space telescope, as a scientist at NASA's Jet Propulsion Laboratory
 - Making caffè lattes and cappuccinos with the right amount of froth
 - Hunting for planets using data from the Kepler space telescope, as a fellow of the Japan Society for the Promotion of Science
