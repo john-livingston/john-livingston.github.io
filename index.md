@@ -10,6 +10,7 @@ I enjoy discovering extrasolar planets using a combination of ground- and space-
 
 ### Project Pages
 
+- [60 Validated Planets from K2 Campaigns 5-8](http://www.johnlivingston.space/C5-C8-validation/)
 - [44 Validated Planets from K2 Campaign 10](http://www.johnlivingston.space/k2c10/)
 - [NASA-Keck/HIRES Key Project](http://www.johnlivingston.space/k2-key-project/)
 
