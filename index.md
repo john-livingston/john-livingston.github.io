@@ -1,4 +1,5 @@
-# John Livingston <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-4881-3620" href="https://orcid.org/0000-0002-4881-3620" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a></div>
+# John Livingston ![https://orcid.org/0000-0002-4881-3620](https://orcid.org/sites/default/files/images/orcid_16x16.png){:width="5px"} 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-4881-3620" href="https://orcid.org/0000-0002-4881-3620"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a></div>
 
 ![](http://logonoid.com/images/university-of-tokyo-logo.png){:width="300px"} 
 ### Astronomy PhD student
