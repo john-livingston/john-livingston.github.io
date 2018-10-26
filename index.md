@@ -21,6 +21,11 @@ I've been very fortunate to have the opportunity to mentor some excellent studen
 
 I am an organizer of [Tokyo Area Planetary Science](http://tokyoplanets.github.io).
 
+## Media
+- [Japan Times](https://www.japantimes.co.jp/news/2018/09/21/national/science-health/university-tokyo-student-goes-extra-trillions-miles-study-exoplanets/)
+- [Newseek](https://www.newsweek.com/incredible-discovery-44-exoplanets-after-technical-fault-1062398)
+- [“We hebben geluk dat Kepler zo goed is blijven functioneren.”](https://www.scientias.nl/in-een-klap-meer-dan-40-exoplaneten-ontdekt/)
+
 ## Experience
 
 I have at various times been employed in the following capacities:
@@ -30,9 +35,3 @@ I have at various times been employed in the following capacities:
 - Making caffè lattes and cappuccinos with the right amount of froth
 - Hunting for planets using data from the Kepler space telescope, as a fellow of the Japan Society for the Promotion of Science
 - Playing guitar (solo and in bands), teaching guitar
-
-## Media
-- [Japan Times](https://www.japantimes.co.jp/news/2018/09/21/national/science-health/university-tokyo-student-goes-extra-trillions-miles-study-exoplanets/)
-- [Newseek](https://www.newsweek.com/incredible-discovery-44-exoplanets-after-technical-fault-1062398)
-- [“We hebben geluk dat Kepler zo goed is blijven functioneren.”](https://www.scientias.nl/in-een-klap-meer-dan-40-exoplaneten-ontdekt/)
-
