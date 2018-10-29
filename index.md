@@ -5,7 +5,7 @@
 
 ## Research
 
-I enjoy discovering extrasolar planets using a combination of ground- and space-based telescopes. I am interested in the various processes that give rise to the great diversity of worlds in the universe. I recently co-discovered the [first transiting multi-planet system in an open cluster](http://iopscience.iop.org/article/10.3847/1538-3881/aaa841/meta), and [44 planets in K2 Campaign 10](http://iopscience.iop.org/article/10.3847/1538-3881/aaccde/meta). I work with several international collaborations focused on the NASA K2 and TESS missions, including [KESPRINT](http://www.iac.es/proyecto/kesprint/). [View all of my work on ResearchGate](https://www.researchgate.net/profile/John_Livingston6).
+I enjoy discovering extrasolar planets using a combination of ground- and space-based telescopes. I am interested in the various processes that give rise to the great diversity of worlds in the universe. I recently co-discovered the [first transiting multi-planet system in an open cluster](http://iopscience.iop.org/article/10.3847/1538-3881/aaa841/meta), [44 planets in K2 Campaign 10](http://iopscience.iop.org/article/10.3847/1538-3881/aaccde/meta), and [60 planets in K2 Campaigns 5-8](https://arxiv.org/abs/1810.04074). I work with several international collaborations focused on the NASA K2 and TESS missions, including [KESPRINT](http://www.iac.es/proyecto/kesprint/). My work can also be found on [ResearchGate](https://www.researchgate.net/profile/John_Livingston6).
 
 ### Project Pages
 
