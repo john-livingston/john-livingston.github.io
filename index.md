@@ -5,7 +5,13 @@
 
 ## Research
 
-I enjoy discovering extrasolar planets using a combination of ground- and space-based telescopes. I am interested in the various processes that give rise to the great diversity of worlds in the universe. I recently co-discovered the [first transiting multi-planet system in an open cluster](http://iopscience.iop.org/article/10.3847/1538-3881/aaa841/meta), [44 planets in K2 Campaign 10](http://iopscience.iop.org/article/10.3847/1538-3881/aaccde/meta), and [60 planets in K2 Campaigns 5-8](https://arxiv.org/abs/1810.04074). I work with several international collaborations focused on the NASA K2 and TESS missions, including [KESPRINT](http://www.iac.es/proyecto/kesprint/). My work can also be found on [ResearchGate](https://www.researchgate.net/profile/John_Livingston6).
+I enjoy discovering extrasolar planets using a combination of ground- and space-based telescopes. I am interested in the various processes that give rise to the great diversity of worlds in the universe. I work with several international collaborations focused on the NASA K2 and TESS missions, including [this one](http://www.iac.es/proyecto/kesprint/). A full listing of my work can be found on [ResearchGate](https://www.researchgate.net/profile/John_Livingston6), and below are my first-author papers:
+
+- [Three Small Planets Transiting a Hyades Star](http://iopscience.iop.org/article/10.3847/1538-3881/aaa841/meta)
+- [44 Validated Planets from K2 Campaign 10](http://iopscience.iop.org/article/10.3847/1538-3881/aaccde/meta)
+- [Sixty Validated Planets from K2 Campaigns 5–8](http://iopscience.iop.org/article/10.3847/1538-3881/aae778/meta)
+- [K2-264: a transiting multiplanet system in the Praesepe open cluster](https://academic.oup.com/mnras/article/484/1/8/5255202)
+- [Spitzer  Transit Follow-up of Planet Candidates from the K2 Mission](http://iopscience.iop.org/article/10.3847/1538-3881/aaff69/meta)
 
 ### Project Pages
 
@@ -24,6 +30,7 @@ I am an organizer of [Tokyo Area Planetary Science](http://tokyoplanets.github.i
 - [Japan Times](https://www.japantimes.co.jp/news/2018/09/21/national/science-health/university-tokyo-student-goes-extra-trillions-miles-study-exoplanets/)
 - [Newsweek](https://www.newsweek.com/incredible-discovery-44-exoplanets-after-technical-fault-1062398)
 - [“We hebben geluk dat Kepler zo goed is blijven functioneren.”](https://www.scientias.nl/in-een-klap-meer-dan-40-exoplaneten-ontdekt/)
+- ["Astrónomos descubren 104 nuevos exoplanetas cotejando datos de Kepler"](https://www.europapress.es/ciencia/astronomia/noticia-astronomos-descubren-104-nuevos-exoplanetas-cotejando-datos-kepler-20181203181839.html)
 
 ## Experience
 
