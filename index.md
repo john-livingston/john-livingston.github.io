@@ -1,7 +1,7 @@
 # John Livingston [![Alt text](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-4881-3620)
 
 ![](http://logonoid.com/images/university-of-tokyo-logo.png){:width="300px"} 
-### Astronomy PhD student
+### Postdoctoral scholar
 
 ## Research
 
