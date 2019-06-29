@@ -13,11 +13,6 @@ I enjoy discovering extrasolar planets using a combination of ground- and space-
 - [K2-264: a transiting multiplanet system in the Praesepe open cluster](https://academic.oup.com/mnras/article/484/1/8/5255202)
 - [Spitzer  Transit Follow-up of Planet Candidates from the K2 Mission](http://iopscience.iop.org/article/10.3847/1538-3881/aaff69/meta)
 
-### Project Pages
-
-- [104 Validated Planets from K2 Campaigns 5-10](http://johnlivingston.space/k2/)
-- [NASA-Keck/HIRES Key Project](http://johnlivingston.space/k2-key-project/)
-
 ## Mentoring
 
 I've been very fortunate to have the opportunity to mentor some excellent students starting their graduate careers at the University of Tokyo. We've been working on fun things like MCMC transit light curve modeling of [TRAPPIST-1](http://nbviewer.jupyter.org/github/Mayuko-Mori/TRAPPIST-1_transit/blob/master/The%20Light%20Curve%20Analysis%20of%20TRAPPIST-1d%26e%20transits.ipynb) and some [hot Jupiters](https://jpdeleon.github.io/2017-08-05-Parameter_estimation_transit_/).
@@ -25,12 +20,6 @@ I've been very fortunate to have the opportunity to mentor some excellent studen
 ## Community
 
 I am an organizer of [Tokyo Area Planetary Science](http://tokyoplanets.github.io).
-
-## Media
-- [Japan Times](https://www.japantimes.co.jp/news/2018/09/21/national/science-health/university-tokyo-student-goes-extra-trillions-miles-study-exoplanets/)
-- [Newsweek](https://www.newsweek.com/incredible-discovery-44-exoplanets-after-technical-fault-1062398)
-- [“We hebben geluk dat Kepler zo goed is blijven functioneren.”](https://www.scientias.nl/in-een-klap-meer-dan-40-exoplaneten-ontdekt/)
-- ["Astrónomos descubren 104 nuevos exoplanetas cotejando datos de Kepler"](https://www.europapress.es/ciencia/astronomia/noticia-astronomos-descubren-104-nuevos-exoplanetas-cotejando-datos-kepler-20181203181839.html)
 
 ## Experience
 
