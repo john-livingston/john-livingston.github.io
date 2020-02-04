@@ -1,32 +1,7 @@
 # John Livingston [![Alt text](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-4881-3620)
 
-![](http://logonoid.com/images/university-of-tokyo-logo.png){:width="300px"} 
+## University of Tokyo
+
 ### Postdoctoral scholar
 
-## Research
-
-I enjoy discovering extrasolar planets using a combination of ground- and space-based telescopes. I am interested in the various processes that give rise to the great diversity of worlds in the universe. I work with several international collaborations focused on the NASA K2 and TESS missions, including [this one](http://kesprint.science/). A full listing of my work can be found on [ResearchGate](https://www.researchgate.net/profile/John_Livingston6), and below are my first-author papers:
-
-- [Three Small Planets Transiting a Hyades Star](http://iopscience.iop.org/article/10.3847/1538-3881/aaa841/meta)
-- [44 Validated Planets from K2 Campaign 10](http://iopscience.iop.org/article/10.3847/1538-3881/aaccde/meta)
-- [Sixty Validated Planets from K2 Campaigns 5–8](http://iopscience.iop.org/article/10.3847/1538-3881/aae778/meta)
-- [K2-264: a transiting multiplanet system in the Praesepe open cluster](https://academic.oup.com/mnras/article/484/1/8/5255202)
-- [Spitzer  Transit Follow-up of Planet Candidates from the K2 Mission](http://iopscience.iop.org/article/10.3847/1538-3881/aaff69/meta)
-
-## Mentoring
-
-I've been very fortunate to have the opportunity to mentor some excellent students starting their graduate careers at the University of Tokyo. We've been working on fun things like MCMC transit light curve modeling of [TRAPPIST-1](http://nbviewer.jupyter.org/github/Mayuko-Mori/TRAPPIST-1_transit/blob/master/The%20Light%20Curve%20Analysis%20of%20TRAPPIST-1d%26e%20transits.ipynb) and some [hot Jupiters](https://jpdeleon.github.io/2017-08-05-Parameter_estimation_transit_/).
-
-## Community
-
-I am an organizer of [Tokyo Area Planetary Science](http://tokyoplanets.github.io).
-
-## Experience
-
-I have at various times been employed in the following capacities:
-
-- Driving the picker cart at the driving range that everyone tries to hit with golf balls
-- Developing code to analyze data from the Spitzer space telescope, as a scientist at NASA's Jet Propulsion Laboratory
-- Making caffè lattes and cappuccinos with the right amount of froth
-- Hunting for planets using data from the Kepler space telescope, as a fellow of the Japan Society for the Promotion of Science
-- Playing guitar (solo and in bands), teaching guitar
+![](pic2sm.jpg){:width="100px"}
