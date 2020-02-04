@@ -1,10 +1,10 @@
 title: (☝︎ ՞ਊ ՞)☝︎
-description: I see you, baby, shaking that apsis
+# description: I see you, baby, shaking that apsis
 # description: Hunting for planets, rawring
-logo: pic2sm.jpg
+# logo: pic2sm.jpg
 # logo: http://i.imgur.com/ImZLPFn.jpg
-#logo: https://i.imgur.com/YYefakX.gif
-#theme: jekyll-theme-minimal
+# logo: https://i.imgur.com/YYefakX.gif
+# theme: jekyll-theme-minimal
+logo: https://en.wikipedia.org/wiki/University_of_Tokyo#/media/File:UnivOfTokyo_logo.svg
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
-
