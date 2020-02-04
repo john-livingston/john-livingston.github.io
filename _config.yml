@@ -4,4 +4,7 @@ description: I see you, baby, shaking that apsis
 logo: pic2sm.jpg
 # logo: http://i.imgur.com/ImZLPFn.jpg
 #logo: https://i.imgur.com/YYefakX.gif
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+
