@@ -12,3 +12,8 @@ I enjoy discovering extrasolar planets using a combination of ground- and space-
 - [K2-264: a transiting multiplanet system in the Praesepe open cluster](https://academic.oup.com/mnras/article/484/1/8/5255202)
 - [Spitzer  Transit Follow-up of Planet Candidates from the K2 Mission](http://iopscience.iop.org/article/10.3847/1538-3881/aaff69/meta)
 
+## Non-Astronomy
+
+I also enjoy:
+
+- [Exploring and vizualizing public datasets](plot_ncov.html)
