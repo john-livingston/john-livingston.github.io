@@ -1,8 +1,11 @@
 ---
-nav_order: 2
+layout: default
+title: Astronomy
+parent: Research
+nav_order: 1
 ---
 
-# Research
+# Exoplanets
 
 I enjoy discovering extrasolar planets using a combination of ground- and space-based telescopes. I am interested in the various processes that give rise to the great diversity of worlds in the universe. I work with several international collaborations focused on the NASA K2 and TESS missions, including [this one](http://kesprint.science/). A full listing of my work can be found on [ResearchGate](https://www.researchgate.net/profile/John_Livingston6), and below are my first-author papers:
 
@@ -12,8 +15,3 @@ I enjoy discovering extrasolar planets using a combination of ground- and space-
 - [K2-264: a transiting multiplanet system in the Praesepe open cluster](https://academic.oup.com/mnras/article/484/1/8/5255202)
 - [Spitzer  Transit Follow-up of Planet Candidates from the K2 Mission](http://iopscience.iop.org/article/10.3847/1538-3881/aaff69/meta)
 
-## Non-Astronomy
-
-I also enjoy:
-
-- [Exploring and vizualizing public datasets](plot_ncov.html)

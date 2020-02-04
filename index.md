@@ -2,6 +2,8 @@
 layout: default
 title: Home
 nav_order: 1
+description: "I see you, baby, shaking that apsis"
+permalink: /
 ---
 <!-- nav_exclude: true -->
 
@@ -11,4 +13,4 @@ nav_order: 1
 
 ### Department of Astronomy
 
-![](pic2sm.jpg){:width="300px"}
+![](images/pic2sm.jpg){:width="300px"}
