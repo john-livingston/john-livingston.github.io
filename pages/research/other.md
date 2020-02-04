@@ -9,5 +9,5 @@ nav_order: 2
 
 I also enjoy exploring and visualizing public datasets, such as the recent outbreak of the novel coronavirus 2019 nCoV:
 
-![](plots/ncov1.png){:width="300px"}
-![](plots/ncov2.png){:width="300px"}
+![](/assets/images/ncov1.png){:width="300px"}
+![](/assets/images/ncov2.png){:width="300px"}

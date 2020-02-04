@@ -13,4 +13,4 @@ permalink: /
 
 ### Department of Astronomy
 
-![](images/pic2sm.jpg){:width="300px"}
+![](/assets/images/pic2sm.jpg){:width="300px"}
