@@ -11,10 +11,10 @@ I also enjoy exploring and visualizing public datasets. For example, the recent 
 
 ![](/assets/images/ncov1.png){:width="900px"}
 
-Clearly, Hubei Province has by far highest number of cases, but do the other provinces show qualitatively similar behavior? To visualize the growth pattern, here are simple line plots with a linear (top) and logarithmic scale (lower) for the y-axis:
+Clearly, Hubei Province has by far the highest number of cases, but do all the provinces show qualitatively similar behavior? To visualize the growth pattern, here are simple line plots with a linear (top) and logarithmic scale (lower) for the y-axis:
 ![](/assets/images/ncov2.png){:width="900px"}
 
-Indeed, they all seem to behave similarly. It could be useful to have a model describing this behavior, so let's start by making the following assumptions:
+The linear scale of the top plot makes it difficult to see, but they indeed all seem to behave similarly if we look at the lower plot. It could be useful to have a model describing this behavior, so let's start by making the following assumptions:
 
 <!-- Using this: https://alexanderrodin.com/github-latex-markdown/ -->
 
