@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Astronomy
+title: Exoplanets
 parent: Research
 nav_order: 1
 ---
@@ -14,4 +14,3 @@ I enjoy discovering extrasolar planets using a combination of ground- and space-
 - [Sixty Validated Planets from K2 Campaigns 5–8](http://iopscience.iop.org/article/10.3847/1538-3881/aae778/meta)
 - [K2-264: a transiting multiplanet system in the Praesepe open cluster](https://academic.oup.com/mnras/article/484/1/8/5255202)
 - [Spitzer  Transit Follow-up of Planet Candidates from the K2 Mission](http://iopscience.iop.org/article/10.3847/1538-3881/aaff69/meta)
-

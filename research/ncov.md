@@ -30,3 +30,8 @@ We can efficiently sample the posterior distributions of the model parameters us
 
 Looks like a power law is a pretty good fit! Here is the joint posterior distribution:
 ![](/assets/images/ncov4.png){:width="900px"}
+
+We can now use the posterior samples to make a prediction about the future using our model: 
+
+On Valentines Day, the number of confirmed cases in Hubei will be 56,487, with an uncertainty of about 300 (![56487^{+321}_{-312}](https://render.githubusercontent.com/render/math?math=56487%5E%7B%2B321%7D_%7B-312%7D)
+).
