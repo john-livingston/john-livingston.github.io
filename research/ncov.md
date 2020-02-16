@@ -37,3 +37,5 @@ Looks like a power law is a pretty good fit! Here is the joint posterior distrib
 We can now use the posterior samples to make a prediction about the future using our model:
 
 On February 14, the number of confirmed cases in Hubei will be about 56,500, with an uncertainty of about 320. Our model, conditioned on the data, tells us we can reasonably expect somewhere in the range 55,500-57,500 cases. Nota bene: because this is an out-of-sample prediction, the uncertainty is likely underestimated.
+
+UPDATE: The prediction was a slight overestimate, probably due to model deficiency and (hopefully) improvements in contagion prevention over the past week. After recelibrating the model, the prediction for Hubei next Friday (February 21) is ~90,000.
