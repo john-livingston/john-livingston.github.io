@@ -15,7 +15,7 @@ While the spread of the disease has apparently stabilized in China, the rest of 
 
 ![](/assets/images/ncov1.png){:width="900px"}
 
-Some of the spikes in these curves correspond to changes in diagnosis criteria and reporting policies. In addition to methodology, transparency also varies by country, so the data are fundamentally ``noisy''. Differences in culture and government response may manifest as different contagion trajectories. Ranked by their total number of cases, the top trajectories look like this:
+Some of the spikes in these curves correspond to changes in diagnosis criteria and reporting policies. In addition to methodology, data reliability also varies by country, so there are various sources of "noise." Differences in culture and government response may manifest as different contagion trajectories. Ranked by their total number of cases, the top trajectories look like this:
 
 ![](/assets/images/ncov2.png){:width="900px"}
 
