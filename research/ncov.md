@@ -7,7 +7,7 @@ nav_order: 2
 
 # 2019 nCoV
 
-I also enjoy exploring and visualizing public datasets. For example, the novel coronavirus 2019 nCoV caught my attention -- after the initial outbreak in China, the rest of the world is now struggling with massive contagion and the situation has now been classified as a pandemic:
+I enjoy exploring and visualizing public datasets, so naturally the novel coronavirus 2019 nCoV caught my attention -- after the initial outbreak in China, the rest of the world is now struggling with massive contagion and the situation has now been classified as a pandemic:
 
 ![](/assets/images/ncov0.png){:width="900px"}
 
