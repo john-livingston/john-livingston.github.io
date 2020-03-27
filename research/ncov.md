@@ -9,26 +9,21 @@ nav_order: 2
 
 I enjoy exploring and visualizing public datasets, so naturally the novel coronavirus 2019 nCoV caught my attention -- after the initial outbreak in China, the rest of the world is now struggling with massive contagion and the situation has now been classified as a pandemic:
 
-![](/assets/images/ncov0.png){:width="900px"}
+![](/assets/images/cases_total.png){:width="900px"}
 
-While the spread of the disease has apparently stabilized in China, the rest of the world has seen marked increases in transmission rates. This can be seen by looking at the daily increases in confirmed cases over time:
+![](/assets/images/deaths_total.png){:width="900px"}
 
-![](/assets/images/ncov1.png){:width="900px"}
+Clearly, the spread of the disease has really accelerated outside of China since late February. This can be seen in more detail on a per-country basis:
 
-Some of the spikes in these curves correspond to changes in diagnosis criteria and reporting policies. In addition to methodology, data reliability also varies by country, so there are various sources of "noise." Differences in culture and government response may manifest as different contagion trajectories. Ranked by their total number of cases, the top trajectories look like this:
+![](/assets/images/cases_top10.png){:width="900px"}
 
-![](/assets/images/ncov2.png){:width="900px"}
+The slope of the growth in cases is currently steepest in the US, while it is flat in China. This can also be seen in the daily increase in cases (lower panel). In terms of deaths, however, Italy and Spain currently face the most dire situation:
 
-However, the linear scale obscures much of the information in the plot, as it is dominated by the large number of cases in China before the disease became a pandemic. By using a logarithmic scale, we can more easily see what's going on:
+![](/assets/images/deaths_top10.png){:width="900px"}
 
-![](/assets/images/ncov3.png){:width="900px"}
+However, if we account for differences in population, the situation looks a bit different:
 
-Another way to visualize the spread of the disease is by focusing on the daily increase in cases. Instead of ranking by total number of cases, here we rank by the median daily increase in cases:
+![](/assets/images/cases_top10_pc.png){:width="900px"}
+![](/assets/images/deaths_top10_pc.png){:width="900px"}
 
-![](/assets/images/ncov4.png){:width="900px"}
-
-From this plot it appears that a fundamental shift in the spread of the disease occurred around February 23rd. Before this date, the daily increases are dominated by China, whereas after this date the rest of the world begins to dominate. To better see the spread outside of China, we can now rank by the median daily increase in cases after this date:
-
-![](/assets/images/ncov5.png){:width="900px"}
-
-Early on in this time period, rapid spreading of the disease is seen primarily in South Korea, Iran, and Italy. Later in this time period, rapid growth in confirmed cases is more prominent in Spain, Germany, and the US.
+San Marino and the Holy See (aka Vatican City) are geographically within Italy, and Andorra is next to Spain, so this is not too surprising given their small populations. Iceland has tested every single citizen, so their numbers are most likely more complete (accurate). Dominica, however, is located in the Caribbean and has a small population, but their numbers may not be reliable.
