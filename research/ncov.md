@@ -35,7 +35,11 @@ We can learn more about the differences in severity between different countries 
 
 ![](/assets/images/cases_rate_top10.png){:width="900px"}
 
-China is a notable outlier in this plot, having faced a larger growth rate earlier in the outbreak than other countries, but this is likely due to the fact that the outbreak started there, so it had longer time to spread before the authorities began implementing containment measures. However, we can make the same kind of plot for the number of deaths instead of cases, and now we see that China is no longer an outlier. This is perhaps surprising given their extremely high cases growth rate, but could potentially be explained by the rapid construction of new hospitals in Wuhan, or by misdiagnoses, other "noise", or a combination of factors. Of course, China's large population makes it difficult to compare with small European nations, so we should also compute growth curves per capita, as before:
+China is a notable outlier in this plot, having faced a larger growth rate earlier in the outbreak than other countries, but this is likely due to the fact that the outbreak started there, so it had longer time to spread before the authorities began implementing containment measures. However, we can make the same kind of plot for the number of deaths instead of cases, and now we see that China is no longer an outlier:
+
+![](/assets/images/deaths_rate_top10.png){:width="900px"}
+
+This is perhaps surprising given their extremely high cases growth rate, but could potentially be explained by the rapid construction of new hospitals in Wuhan, or by misdiagnoses, reporting "noise", or a combination of factors. Of course, China's large population makes it difficult to compare with small European nations, so we should also compute growth curves per capita (for countries with more than 100,000 people, as before):
 
 ![](/assets/images/cases_rate_top10_pc_min100000.png){:width="900px"}
 
@@ -43,4 +47,4 @@ Now we can see that the growth in cases per capita has been steepest for Iceland
 
 ![](/assets/images/deaths_rate_top10_pc_min100000.png){:width="900px"}
 
-It is apparent that Spain will reach Italy's current level of deaths per capita (nearly 0.2%) before they reach the 30 day mark, whereas it has taken Italy nearly 40 days to reach its current state.
+It is apparent that Spain will reach Italy's current level of deaths per capita (nearly 0.02%) before they reach the 30 day mark, whereas it has taken Italy nearly 40 days to reach its current state.
