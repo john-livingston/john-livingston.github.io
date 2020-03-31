@@ -30,3 +30,17 @@ If we now consider only countries with a population above 100,000 people, we get
 
 ![](/assets/images/cases_top10_pc_min100000.png){:width="900px"}
 ![](/assets/images/deaths_top10_pc_min100000.png){:width="900px"}
+
+We can learn more about the differences in severity between different countries by plotting growth curves. As we saw above, the US is currently leading the world in terms of the total number of cases, but also in terms of how fast the number of cases is growing. However, to really see how the growth trend in the US compares to other countries, we need to plot the curves starting from a common reference time that is independent of the (somewhat random) time the disease was imported in significant numbers. In the following plot, we choose this time (somewhat arbitrarily) to be the day that the number of cases reached 100:
+
+![](/assets/images/cases_rate_top10.png){:width="900px"}
+
+China is a notable outlier in this plot, having faced a larger growth rate earlier in the outbreak than other countries, but this is likely due to the fact that the outbreak started there, so it had longer time to spread before the authorities began implementing containment measures. However, we can make the same kind of plot for the number of deaths instead of cases, and now we see that China is no longer an outlier. This is perhaps surprising given their extremely high cases growth rate, but could potentially be explained by the rapid construction of new hospitals in Wuhan, or by misdiagnoses, other "noise", or a combination of factors. Of course, China's large population makes it difficult to compare with small European nations, so we should also compute growth curves per capita, as before:
+
+![](/assets/images/cases_rate_top10_pc_min100000.png){:width="900px"}
+
+Now we can see that the growth in cases per capita has been steepest for Iceland. This is again likely related to the fact that they have tested 100% of the population. If we instead look at deaths per capita, we can clearly see that the situation in Spain is actually worse than in Italy, even though there Italy has had more deaths:
+
+![](/assets/images/deaths_rate_top10_pc_min100000.png){:width="900px"}
+
+It is apparent that Spain will reach Italy's current level of deaths per capita (nearly 0.2%) before they reach the 30 day mark, whereas it has taken Italy nearly 40 days to reach its current state.
