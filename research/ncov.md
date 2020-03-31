@@ -43,8 +43,8 @@ This is perhaps surprising given their extremely high cases growth rate, but cou
 
 ![](/assets/images/cases_rate_top10_pc_min100000.png){:width="900px"}
 
-Now we can see that the growth in cases per capita has been steepest for Iceland. This is again likely related to the fact that they have tested 100% of the population. If we instead look at deaths per capita, we can clearly see that the situation in Spain is actually worse than in Italy, even though there Italy has had more deaths:
+Now we see that China doesn't make the top 10 (due to its large population), and the growth in cases per capita is currently steepest for Iceland. This is again likely related to the fact that Iceland has tested 100% of its population. If we now look at the growth in deaths per capita, we can see that the situation in Spain is actually worse than in Italy, even though Italy has had more deaths:
 
 ![](/assets/images/deaths_rate_top10_pc_min100000.png){:width="900px"}
 
-It is apparent that Spain will reach Italy's current level of deaths per capita (nearly 0.02%) before they reach the 30 day mark, whereas it has taken Italy nearly 40 days to reach its current state.
+Without a significant change in course, it is apparent that Spain will reach Italy's current level of deaths per capita (nearly 0.02%) before they reach the 30 day mark, whereas it has taken Italy nearly 40 days to reach its current state.
