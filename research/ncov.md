@@ -39,11 +39,11 @@ China is a notable outlier in this plot, having faced a larger growth rate earli
 
 ![](/assets/images/deaths_rate_top10.png){:width="900px"}
 
-This is perhaps surprising given their extremely high cases growth rate, but could potentially be explained by the rapid construction of new hospitals in Wuhan, or by misdiagnoses, reporting "noise", or a combination of factors. Of course, China's large population makes it difficult to compare with small European nations, so we should also compute growth curves per capita (for countries with more than 100,000 people, as before):
+This is perhaps surprising given the extremely fast growth in cases early on in China, but could potentially be explained by the rapid construction of new hospitals in Wuhan, or by misdiagnoses, reporting "noise", or a combination of factors. Of course, China's large population makes it difficult to compare with small European nations, so we should also compute growth curves per capita (for countries with more than 100,000 people, as before):
 
 ![](/assets/images/cases_rate_top10_pc_min100000.png){:width="900px"}
 
-Now we see that China doesn't make the top 10 (due to its large population), and the growth in cases per capita is currently steepest for Iceland. This is again likely related to the fact that Iceland has tested 100% of its population. If we now look at the growth in deaths per capita, we can see that the situation in Spain is actually worse than in Italy, even though Italy has had more deaths:
+Now we see that China doesn't make the top 10, and the growth in cases per capita is currently fastest for Iceland, with Luxembourg a close second. This is (again) likely related to the fact that Iceland has tested 100% of its population. If we now look at the growth in deaths per capita, we can see that the situation in Spain is actually worse than in Italy, even though Italy has had more deaths:
 
 ![](/assets/images/deaths_rate_top10_pc_min100000.png){:width="900px"}
 
