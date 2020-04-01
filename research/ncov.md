@@ -25,7 +25,7 @@ However, if we account for differences in population, the situation looks a bit 
 ![](/assets/images/cases_top10_pc_min0.png){:width="900px"}
 ![](/assets/images/deaths_top10_pc_min0.png){:width="900px"}
 
-San Marino and the Holy See (aka Vatican City) are geographically within Italy, and Andorra lies between Spain and France, so this is not too surprising given their locations and small populations. Iceland also has a small population, but has tested every single citizen, so their numbers are most likely more complete (accurate). Dominica, however, is located in the Caribbean and has a small population, but their numbers may not be reliable.
+San Marino and the Holy See (aka Vatican City) are geographically within Italy, and Andorra lies between Spain and France, so this is not too surprising given their locations and small populations. Iceland also has a small population, but is in the process of testing all citizens, so their numbers are likely to be more complete (accurate). Dominica, however, is located in the Caribbean and has a small population, but their numbers may not be reliable.
 If we now consider only countries with a population above 100,000 people, we get the following:
 
 ![](/assets/images/cases_top10_pc_min100000.png){:width="900px"}
@@ -43,8 +43,8 @@ This is perhaps surprising given the extremely fast growth in cases early on in 
 
 ![](/assets/images/cases_rate_top10_pc_min100000.png){:width="900px"}
 
-Now we see that China doesn't make the top 10, and the growth in cases per capita is currently fastest for Iceland, with Luxembourg a close second. This is (again) likely related to the fact that Iceland has tested 100% of its population. If we now look at the growth in deaths per capita, we can see that the situation in Spain is actually worse than in Italy, even though Italy has had more deaths:
+Now we see that China doesn't make the top 10, and the growth in cases per capita is currently fastest for Luxembourg, with Iceland a close second. However, while Iceland is on its way to testing 100% of its population, Luxembourg has so far only tested [a small fraction](https://msan.gouvernement.lu/en/dossiers/2020/corona-virus.html) of its population of over 600,000 people. It's thus likely the situation could get much worse in Luxembourg in the near future. If we now look at the growth in deaths per capita, we can see that the situation in Spain is actually worse than in Italy, even though Italy has had more deaths:
 
 ![](/assets/images/deaths_rate_top10_pc_min100000.png){:width="900px"}
 
-Without a significant change in course, it is apparent that Spain will reach Italy's current level of deaths per capita (nearly 0.02%) before they reach the 30 day mark, whereas it has taken Italy nearly 40 days to reach its current state.
+Without a significant change in course, it is apparent that Spain will reach Italy's current level of deaths per capita (0.02%) before they reach the 30 day mark, whereas it has taken Italy nearly 40 days to reach its current state.
