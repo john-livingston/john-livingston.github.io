@@ -47,4 +47,4 @@ Now we see that China doesn't make the top 10, and the growth in cases per capit
 
 ![](/assets/images/deaths_rate_top10_pc_min100000.png){:width="900px"}
 
-In Spain, it took 30 days for more than 2 out of every 10,000 people to have died from the virus, whereas it took 40 days for that to happen in Italy. The slope of Spain's curve is also visibly steeper than Italy's by a significant amount.
+In Spain, it took 30 days for more than 2 out of every 10,000 people to die from the virus, whereas it took 40 days for that to happen in Italy. The slope of Spain's curve is also visibly steeper than Italy's by a significant amount.
