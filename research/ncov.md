@@ -35,6 +35,6 @@ We can learn more about the differences in severity between different countries 
 
 ![](/assets/images/cases_rate_top10.png){:width="900px"}
 
-Here is the same thing for deaths instead of cases:
+Countries are ranked by the median daily increase over the past five days, or in other words, the recent 'steepness' of the growth curve. Here is the same plot for deaths:
 
 ![](/assets/images/deaths_rate_top10.png){:width="900px"}
