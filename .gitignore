@@ -1,0 +1,5 @@
+# Ignore everything except the workflow and this file
+*
+!.github
+!.github/**
+!.gitignore

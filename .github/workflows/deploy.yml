@@ -1,0 +1,55 @@
+name: Deploy to GitHub Pages
+
+on:
+  # Triggered by private repos via repository_dispatch
+  repository_dispatch:
+    types: [deploy]
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout academic-site
+        uses: actions/checkout@v4
+        with:
+          repository: john-livingston/academic-site
+          token: ${{ secrets.API_TOKEN_GITHUB }}
+          path: site
+
+      - name: Checkout v1298tau-calc
+        uses: actions/checkout@v4
+        with:
+          repository: john-livingston/v1298tau-calc
+          token: ${{ secrets.API_TOKEN_GITHUB }}
+          path: site/v1298tau-calc
+
+      - name: Clean up nested git/github dirs
+        run: |
+          rm -rf site/.git site/.github
+          rm -rf site/v1298tau-calc/.git site/v1298tau-calc/.github
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
