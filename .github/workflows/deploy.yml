@@ -30,12 +30,21 @@ jobs:
           token: ${{ secrets.API_TOKEN_GITHUB }}
           path: site
 
+      # Sparse checkout: publish only the app's runtime files — keeps
+      # data pickles, generator scripts, CSVs, and tests off the public site
       - name: Checkout v1298tau-calc
         uses: actions/checkout@v4
         with:
           repository: john-livingston/v1298tau-calc
           token: ${{ secrets.API_TOKEN_GITHUB }}
           path: site/v1298tau-calc
+          sparse-checkout: |
+            /index.html
+            /styles.css
+            /app.js
+            /transit_predictions.json
+            /observatories.json
+          sparse-checkout-cone-mode: false
 
       - name: Clean up nested git/github dirs
         run: |
